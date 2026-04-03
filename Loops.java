@@ -40,7 +40,6 @@ class Loops{
                 // }
 
                 //Solution
-
                 // int i=0;
                 // while(i<=10){
                 //         if(i==3){
@@ -50,9 +49,7 @@ class Loops{
                 //         System.out.println(i);
                 //         i++;
                 // }
-
                 //While Loops------break;
-
                 // int i=0;
                 // while(i<=10){
                 //         if(i==2){
