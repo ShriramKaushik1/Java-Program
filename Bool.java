@@ -1,13 +1,11 @@
 import java.util.Scanner;
-public class Bool {
-    
+public class Bool { 
 public static void main(String arg[]){
      Scanner sc= new Scanner(System.in);
      System.out.print("Enter Age : ");
      int age= sc.nextInt();
      boolean isCriminalcase=false;
      boolean isEducated=false;
-
         if(age>=21){
                 if(isCriminalcase==false){
                        // System.out.println("");
@@ -22,7 +20,6 @@ public static void main(String arg[]){
                     System.out.println("you have criminal case");
                     }
         }
-         
         else if(age>=18)
         {
                 System.out.println("You can vote");
